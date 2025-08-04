@@ -4,7 +4,7 @@
 terraform {
 
   cloud {
-    organization = "organization-name"
+    organization = "myAWSIOC"
 
     workspaces {
       name = "learn-terraform"
